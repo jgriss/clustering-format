@@ -6,8 +6,8 @@ This project aims at developing a standard file format for MS2 based clustering 
 
 Currently, two major decisions need to be taken, each of which is tracked by an issue in this repository:
 
-1. Decide whether to base the format on mzTab or create a new XML based format (Issue #1)
-2. Define the required information needed to be stored (Issue #2)
+1. Decide whether to base the format on mzTab or create a new XML based format ([Issue #1](https://github.com/jgriss/clustering-format/issues/1))
+2. Define the required information needed to be stored ([Issue #2](https://github.com/jgriss/clustering-format/issues/2))
 
 ## Clustering Results in mzTab
 
